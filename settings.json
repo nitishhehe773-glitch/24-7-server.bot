@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "play.battlepie.net",
-    "port": 19132,
+    "ip": "Classicfine.aternos.me",
+    "port": 55863,
     "version": "1.21.11",
     "try-creative": false
   },
