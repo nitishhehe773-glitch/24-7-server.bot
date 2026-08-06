@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Server_bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Classicfine.aternos.me",
