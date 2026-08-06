@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
         "I am choosed best server ",
         "follow on insta id is @onyx.nitish!",
-        "rhis is nice server"
+        "this is nice server"
       ]
     },
     "chat-log": true,
